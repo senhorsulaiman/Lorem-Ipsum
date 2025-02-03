@@ -77,3 +77,6 @@ console.log(id); // Output: "Uakgb_J5m9g-0JDMbcJqL"
 In this example, we first import the nanoid function from the nanoid library. We then call the nanoid() function to generate a new, random ID. Finally, we output the ID to the console.
 
 One of the benefits of using nanoid is that it generates IDs that are highly unlikely to collide, even when generating a large number of them. This is achieved by using a combination of randomness and a predefined set of characters, which ensures that each ID is unique and unpredictable.
+
+### SITE LINK
+https://friendly-frangollo-ade335.netlify.app/
